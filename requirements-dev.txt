@@ -86,4 +86,4 @@ natsort
 pydata-sphinx-theme
 pandas-dev-flaker==0.2.0
 pytest-cython
-setuptools>=51.0.0
+setuptools>=70.0.0
