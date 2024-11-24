@@ -87,3 +87,5 @@ pydata-sphinx-theme
 pandas-dev-flaker==0.2.0
 pytest-cython
 setuptools>=51.0.0
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
