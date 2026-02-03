@@ -25,7 +25,7 @@ types-python-dateutil
 types-PyMySQL
 types-pytz
 types-setuptools
-nbconvert>=5.4.1
+nbconvert>=7.17.0
 nbsphinx
 pandoc
 dask
@@ -87,3 +87,4 @@ pydata-sphinx-theme
 pandas-dev-flaker==0.2.0
 pytest-cython
 setuptools>=51.0.0
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
